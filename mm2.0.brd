@@ -1160,29 +1160,29 @@ design rules under a new name.</description>
 <element name="C3V_OUT" library="SparkFun" package="0603-CAP" value="10 uF" x="-259.08" y="265.43"/>
 <element name="C5V_IN" library="SparkFun" package="0603-CAP" value="0.1 uF" x="-15.24" y="271.78"/>
 <element name="C5V_OUT" library="SparkFun" package="0603-CAP" value="10 uF" x="-262.89" y="265.43"/>
-<element name="C_E1" library="SparkFun" package="0603-CAP" value="0.1uF" x="-19.05" y="271.78"/>
-<element name="C_E10" library="SparkFun" package="0603-CAP" value="4.7uF" x="-53.34" y="271.78"/>
-<element name="C_E11" library="SparkFun" package="0603-CAP" value="0.1uF" x="-57.15" y="271.78"/>
-<element name="C_E12" library="SparkFun" package="0603-CAP" value="4.7uF" x="-60.96" y="271.78"/>
-<element name="C_E2" library="SparkFun" package="0603-CAP" value="4.7uF" x="-22.86" y="271.78"/>
-<element name="C_E3" library="SparkFun" package="0603-CAP" value="0.1uF" x="-26.67" y="271.78"/>
-<element name="C_E4" library="SparkFun" package="0603-CAP" value="4.7uF" x="-30.48" y="271.78"/>
-<element name="C_E5" library="SparkFun" package="0603-CAP" value="0.1uF" x="-34.29" y="271.78"/>
-<element name="C_E6" library="SparkFun" package="0603-CAP" value="4.7uF" x="-38.1" y="271.78"/>
-<element name="C_E7" library="SparkFun" package="0603-CAP" value="0.1uF" x="-41.91" y="271.78"/>
-<element name="C_E8" library="SparkFun" package="0603-CAP" value="4.7uF" x="-45.72" y="271.78"/>
-<element name="C_E9" library="SparkFun" package="0603-CAP" value="0.1uF" x="-49.53" y="271.78"/>
+<element name="C_ELF" library="SparkFun" package="0603-CAP" value="0.1uF" x="-19.05" y="271.78"/>
+<element name="C_ERD'" library="SparkFun" package="0603-CAP" value="4.7uF" x="-53.34" y="271.78"/>
+<element name="C_ERF" library="SparkFun" package="0603-CAP" value="0.1uF" x="-57.15" y="271.78"/>
+<element name="C_ERF'" library="SparkFun" package="0603-CAP" value="4.7uF" x="-60.96" y="271.78"/>
+<element name="C_ELF'" library="SparkFun" package="0603-CAP" value="4.7uF" x="-22.86" y="271.78"/>
+<element name="C_ELD" library="SparkFun" package="0603-CAP" value="0.1uF" x="-26.67" y="271.78"/>
+<element name="C_ELD'" library="SparkFun" package="0603-CAP" value="4.7uF" x="-30.48" y="271.78"/>
+<element name="C_ELS" library="SparkFun" package="0603-CAP" value="0.1uF" x="-34.29" y="271.78"/>
+<element name="C_ELS'" library="SparkFun" package="0603-CAP" value="4.7uF" x="-38.1" y="271.78"/>
+<element name="C_ERS" library="SparkFun" package="0603-CAP" value="0.1uF" x="-41.91" y="271.78"/>
+<element name="C_ERS'" library="SparkFun" package="0603-CAP" value="4.7uF" x="-45.72" y="271.78"/>
+<element name="C_ERD" library="SparkFun" package="0603-CAP" value="0.1uF" x="-49.53" y="271.78"/>
 <element name="C_G1" library="SparkFun" package="0603-CAP" value="0.1uF" x="-64.77" y="271.78"/>
 <element name="C_G2" library="SparkFun" package="0603-CAP" value="0.47uF" x="-68.58" y="271.78"/>
 <element name="C_G3" library="SparkFun" package="0603-CAP" value="0.01uF" x="-72.39" y="271.78"/>
-<element name="C_M1" library="SparkFun" package="0603-CAP" value="100nF" x="-76.2" y="271.78"/>
-<element name="C_M2" library="SparkFun" package="0603-CAP" value="4.7uF" x="-80.01" y="271.78"/>
-<element name="C_M3" library="SparkFun" package="0603-CAP" value="100nF" x="-83.82" y="271.78"/>
-<element name="C_M4" library="SparkFun" package="0603-CAP" value="100nF" x="-87.63" y="271.78"/>
-<element name="C_M5" library="SparkFun" package="0603-CAP" value="4.7uF" x="-91.44" y="271.78"/>
-<element name="C_M6" library="SparkFun" package="0603-CAP" value="100nF" x="-95.25" y="271.78"/>
-<element name="C_M7" library="SparkFun" package="0603-CAP" value="100nF" x="-99.06" y="271.78"/>
-<element name="C_M8" library="SparkFun" package="0603-CAP" value="100nF" x="-102.87" y="271.78"/>
+<element name="C_V1" library="SparkFun" package="0603-CAP" value="0.1uF" x="-76.2" y="271.78"/>
+<element name="C_VCAP1" library="SparkFun" package="0603-CAP" value="2.2uF" x="-80.01" y="271.78"/>
+<element name="C_V0" library="SparkFun" package="0603-CAP" value="100nF" x="-83.82" y="271.78"/>
+<element name="C_V4" library="SparkFun" package="0603-CAP" value="0.1uF" x="-87.63" y="271.78"/>
+<element name="C_V5" library="SparkFun" package="0603-CAP" value="4.7uF" x="-91.44" y="271.78"/>
+<element name="C_VBAT" library="SparkFun" package="0603-CAP" value="0.1uF" x="-95.25" y="271.78"/>
+<element name="C_V3" library="SparkFun" package="0603-CAP" value="0.1uF" x="-99.06" y="271.78"/>
+<element name="C_V2" library="SparkFun" package="0603-CAP" value="0.1uF" x="-102.87" y="271.78"/>
 <element name="C_NR" library="SparkFun" package="0603-CAP" value="0.1uF" x="-106.68" y="271.78"/>
 <element name="ENC_L" library="pinhead" library_urn="urn:adsk.eagle:library:325" package="1X02" package3d_urn="urn:adsk.eagle:package:22435/2" value="" x="-63.5" y="265.43"/>
 <element name="ENC_LAB" library="pinhead" library_urn="urn:adsk.eagle:library:325" package="1X02" package3d_urn="urn:adsk.eagle:package:22435/2" value="" x="-40.64" y="265.43"/>
@@ -1193,12 +1193,12 @@ design rules under a new name.</description>
 <attribute name="MPN" value="" x="-69.85" y="252.73" size="1.778" layer="27" display="off"/>
 <attribute name="OC_FARNELL" value="unknown" x="-69.85" y="252.73" size="1.778" layer="27" display="off"/>
 </element>
-<element name="IR1" library="sfh4550 _ teft4300" package="EMITTER" value="EMITTER" x="-34.29" y="2.54"/>
-<element name="IR2" library="sfh4550 _ teft4300" package="EMITTER" value="EMITTER" x="-77.47" y="2.54"/>
-<element name="IR3" library="sfh4550 _ teft4300" package="EMITTER" value="EMITTER" x="-120.65" y="2.54"/>
-<element name="IR4" library="sfh4550 _ teft4300" package="EMITTER" value="EMITTER" x="-163.83" y="2.54"/>
-<element name="IR5" library="sfh4550 _ teft4300" package="EMITTER" value="EMITTER" x="-207.01" y="2.54"/>
-<element name="IR6" library="sfh4550 _ teft4300" package="EMITTER" value="EMITTER" x="-250.19" y="2.54"/>
+<element name="IR_LF" library="sfh4550 _ teft4300" package="EMITTER" value="EMITTER" x="-34.29" y="2.54"/>
+<element name="IR_LD" library="sfh4550 _ teft4300" package="EMITTER" value="EMITTER" x="-77.47" y="2.54"/>
+<element name="IR_LS" library="sfh4550 _ teft4300" package="EMITTER" value="EMITTER" x="-120.65" y="2.54"/>
+<element name="IR_RS" library="sfh4550 _ teft4300" package="EMITTER" value="EMITTER" x="-163.83" y="2.54"/>
+<element name="IR_RD" library="sfh4550 _ teft4300" package="EMITTER" value="EMITTER" x="-207.01" y="2.54"/>
+<element name="IR_RF" library="sfh4550 _ teft4300" package="EMITTER" value="EMITTER" x="-250.19" y="2.54"/>
 <element name="JST" library="JST_CONNECTOR_FEMALE. through hole" package="JST_CONNECTOR_FEMALE" value="JST_CONNECTOR_FEMALE" x="-90.17" y="248.92"/>
 <element name="LED1" library="led" library_urn="urn:adsk.eagle:library:259" package="SML0603" package3d_urn="urn:adsk.eagle:package:15832/1" value="" x="-71.12" y="264.16"/>
 <element name="LED2" library="led" library_urn="urn:adsk.eagle:library:259" package="SML0603" package3d_urn="urn:adsk.eagle:package:15832/1" value="" x="-77.47" y="264.16"/>
@@ -1209,68 +1209,68 @@ design rules under a new name.</description>
 <element name="LED7" library="led" library_urn="urn:adsk.eagle:library:259" package="SML0603" package3d_urn="urn:adsk.eagle:package:15832/1" value="" x="-109.22" y="264.16"/>
 <element name="LED8" library="led" library_urn="urn:adsk.eagle:library:259" package="SML0603" package3d_urn="urn:adsk.eagle:package:15832/1" value="" x="-115.57" y="264.16"/>
 <element name="MCU" library="pinhead" library_urn="urn:adsk.eagle:library:325" package="1X04" package3d_urn="urn:adsk.eagle:package:22407/2" value="" x="-241.3" y="248.92"/>
-<element name="MCU1" library="pinhead" library_urn="urn:adsk.eagle:library:325" package="1X04" package3d_urn="urn:adsk.eagle:package:22407/2" value="" x="-252.73" y="248.92"/>
+<element name="BLUETOOTH" library="pinhead" library_urn="urn:adsk.eagle:library:325" package="1X04" package3d_urn="urn:adsk.eagle:package:22407/2" value="" x="-252.73" y="248.92"/>
 <element name="MOTOR_L" library="pinhead" library_urn="urn:adsk.eagle:library:325" package="1X02" package3d_urn="urn:adsk.eagle:package:22435/2" value="" x="-20.32" y="265.43"/>
 <element name="MOTOR_R" library="pinhead" library_urn="urn:adsk.eagle:library:325" package="1X02" package3d_urn="urn:adsk.eagle:package:22435/2" value="" x="-265.43" y="248.92"/>
 <element name="POWER" library="SparkFun-Electromechanical" package="SWITCH-SPDT" value="" x="-20.32" y="252.73">
 <attribute name="PROD_ID" value="SWCH-08261" x="-20.32" y="252.73" size="1.778" layer="27" display="off"/>
 </element>
-<element name="R1" library="SparkFun-Resistors" package="0603-RES" value="20K" x="-125.73" y="265.43"/>
-<element name="R10" library="SparkFun-Resistors" package="0603-RES" value="47K" x="-160.02" y="265.43"/>
-<element name="R11" library="SparkFun-Resistors" package="0603-RES" value="39" x="-163.83" y="265.43"/>
-<element name="R12" library="SparkFun-Resistors" package="0603-RES" value="39" x="-167.64" y="265.43"/>
-<element name="R13" library="SparkFun-Resistors" package="0603-RES" value="39" x="-171.45" y="265.43"/>
-<element name="R14" library="SparkFun-Resistors" package="0603-RES" value="39" x="-175.26" y="265.43"/>
-<element name="R15" library="SparkFun-Resistors" package="0603-RES" value="39" x="-179.07" y="265.43"/>
-<element name="R16" library="SparkFun-Resistors" package="0603-RES" value="1.8K" x="-182.88" y="265.43"/>
-<element name="R17" library="SparkFun" package="0402-RES" value="1K" x="-121.92" y="271.78"/>
-<element name="R18" library="SparkFun-Resistors" package="0603-RES" value="1K" x="-186.69" y="265.43"/>
-<element name="R19" library="SparkFun-Resistors" package="0603-RES" value="1K" x="-190.5" y="265.43"/>
-<element name="R2" library="SparkFun-Resistors" package="0603-RES" value="10K" x="-129.54" y="265.43"/>
-<element name="R20" library="SparkFun" package="0603-RES" value="47K" x="-110.49" y="271.78"/>
-<element name="R21" library="SparkFun-Resistors" package="0603-RES" value="1.8K" x="-194.31" y="265.43"/>
-<element name="R22" library="SparkFun-Resistors" package="0603-RES" value="1.8K" x="-198.12" y="265.43"/>
-<element name="R23" library="SparkFun-Resistors" package="0603-RES" value="1.8K" x="-201.93" y="265.43"/>
-<element name="R24" library="SparkFun-Resistors" package="0603-RES" value="1.8K" x="-205.74" y="265.43"/>
-<element name="R25" library="SparkFun-Resistors" package="0603-RES" value="1.8K" x="-209.55" y="265.43"/>
-<element name="R26" library="SparkFun-Resistors" package="0603-RES" value="47K" x="-213.36" y="265.43"/>
-<element name="R27" library="SparkFun-Resistors" package="0603-RES" value="1K" x="-217.17" y="265.43"/>
-<element name="R28" library="SparkFun-Resistors" package="0603-RES" value="47K" x="-220.98" y="265.43"/>
-<element name="R29" library="SparkFun-Resistors" package="0603-RES" value="47K" x="-224.79" y="265.43"/>
+<element name="R_VM" library="SparkFun-Resistors" package="0603-RES" value="20K" x="-125.73" y="265.43"/>
+<element name="R_ERF'" library="SparkFun-Resistors" package="0603-RES" value="47K" x="-160.02" y="265.43"/>
+<element name="R_ELD" library="SparkFun-Resistors" package="0603-RES" value="39" x="-163.83" y="265.43"/>
+<element name="R_ELS" library="SparkFun-Resistors" package="0603-RES" value="39" x="-167.64" y="265.43"/>
+<element name="R_ERS" library="SparkFun-Resistors" package="0603-RES" value="39" x="-171.45" y="265.43"/>
+<element name="R_ERD" library="SparkFun-Resistors" package="0603-RES" value="39" x="-175.26" y="265.43"/>
+<element name="R_ERF" library="SparkFun-Resistors" package="0603-RES" value="39" x="-179.07" y="265.43"/>
+<element name="R_RLF" library="SparkFun-Resistors" package="0603-RES" value="1.8K" x="-182.88" y="265.43"/>
+<element name="R_BLED" library="SparkFun" package="0402-RES" value="1K" x="-121.92" y="271.78"/>
+<element name="R_LED2" library="SparkFun-Resistors" package="0603-RES" value="1K" x="-186.69" y="265.43"/>
+<element name="R_LED3" library="SparkFun-Resistors" package="0603-RES" value="1K" x="-190.5" y="265.43"/>
+<element name="R_VM'" library="SparkFun-Resistors" package="0603-RES" value="10K" x="-129.54" y="265.43"/>
+<element name="R_B0'" library="SparkFun" package="0603-RES" value="47K" x="-110.49" y="271.78"/>
+<element name="R_RLD" library="SparkFun-Resistors" package="0603-RES" value="1.8K" x="-194.31" y="265.43"/>
+<element name="R_RLS" library="SparkFun-Resistors" package="0603-RES" value="1.8K" x="-198.12" y="265.43"/>
+<element name="R_RRS" library="SparkFun-Resistors" package="0603-RES" value="1.8K" x="-201.93" y="265.43"/>
+<element name="R_RRD" library="SparkFun-Resistors" package="0603-RES" value="1.8K" x="-205.74" y="265.43"/>
+<element name="R_RRF" library="SparkFun-Resistors" package="0603-RES" value="1.8K" x="-209.55" y="265.43"/>
+<element name="R_BUZ'" library="SparkFun-Resistors" package="0603-RES" value="47K" x="-213.36" y="265.43"/>
+<element name="R_BUZ" library="SparkFun-Resistors" package="0603-RES" value="1K" x="-217.17" y="265.43"/>
+<element name="R_D1" library="SparkFun-Resistors" package="0603-RES" value="47K" x="-220.98" y="265.43"/>
+<element name="R_D2" library="SparkFun-Resistors" package="0603-RES" value="47K" x="-224.79" y="265.43"/>
 <element name="R3" library="SparkFun-Resistors" package="0603-RES" value="10K" x="-133.35" y="265.43"/>
-<element name="R30" library="SparkFun-Resistors" package="0603-RES" value="47K" x="-228.6" y="265.43"/>
-<element name="R31" library="SparkFun-Resistors" package="0603-RES" value="47K" x="-232.41" y="265.43"/>
-<element name="R32" library="SparkFun" package="0603-RES" value="47K" x="-114.3" y="271.78"/>
-<element name="R33" library="SparkFun-Resistors" package="0603-RES" value="1K" x="-236.22" y="265.43"/>
-<element name="R34" library="SparkFun-Resistors" package="0603-RES" value="1K" x="-240.03" y="265.43"/>
-<element name="R35" library="SparkFun-Resistors" package="0603-RES" value="1K" x="-243.84" y="265.43"/>
-<element name="R36" library="SparkFun-Resistors" package="0603-RES" value="1K" x="-247.65" y="265.43"/>
-<element name="R37" library="SparkFun-Resistors" package="0603-RES" value="1K" x="-251.46" y="265.43"/>
-<element name="R38" library="SparkFun-Resistors" package="0603-RES" value="1K" x="-255.27" y="265.43"/>
-<element name="R4" library="SparkFun-Resistors" package="0603-RES" value="47K" x="-137.16" y="265.43"/>
-<element name="R5" library="SparkFun-Resistors" package="0603-RES" value="39" x="-140.97" y="265.43"/>
-<element name="R6" library="SparkFun-Resistors" package="0603-RES" value="47K" x="-144.78" y="265.43"/>
-<element name="R7" library="SparkFun-Resistors" package="0603-RES" value="47K" x="-148.59" y="265.43"/>
-<element name="R8" library="SparkFun-Resistors" package="0603-RES" value="47K" x="-152.4" y="265.43"/>
-<element name="R9" library="SparkFun-Resistors" package="0603-RES" value="47K" x="-156.21" y="265.43"/>
-<element name="REC1" library="sfh4550 _ teft4300" package="RECEIVER" value="RECEIVER" x="-130.81" y="250.19"/>
-<element name="REC2" library="sfh4550 _ teft4300" package="RECEIVER" value="RECEIVER" x="-138.43" y="250.19"/>
-<element name="REC3" library="sfh4550 _ teft4300" package="RECEIVER" value="RECEIVER" x="-146.05" y="250.19"/>
-<element name="REC4" library="sfh4550 _ teft4300" package="RECEIVER" value="RECEIVER" x="-153.67" y="250.19"/>
-<element name="REC5" library="sfh4550 _ teft4300" package="RECEIVER" value="RECEIVER" x="-161.29" y="250.19"/>
-<element name="REC6" library="sfh4550 _ teft4300" package="RECEIVER" value="RECEIVER" x="-168.91" y="250.19"/>
-<element name="RST" library="SparkFun-Retired" package="TACTILE-PTH" value="" x="-121.92" y="250.19"/>
+<element name="R_D3" library="SparkFun-Resistors" package="0603-RES" value="47K" x="-228.6" y="265.43"/>
+<element name="R_D4" library="SparkFun-Resistors" package="0603-RES" value="47K" x="-232.41" y="265.43"/>
+<element name="R_B0" library="SparkFun" package="0603-RES" value="47K" x="-114.3" y="271.78"/>
+<element name="R_LED4" library="SparkFun-Resistors" package="0603-RES" value="1K" x="-236.22" y="265.43"/>
+<element name="R_LED1" library="SparkFun-Resistors" package="0603-RES" value="1K" x="-240.03" y="265.43"/>
+<element name="R_LED5" library="SparkFun-Resistors" package="0603-RES" value="1K" x="-243.84" y="265.43"/>
+<element name="R_LED6" library="SparkFun-Resistors" package="0603-RES" value="1K" x="-247.65" y="265.43"/>
+<element name="R_LED7" library="SparkFun-Resistors" package="0603-RES" value="1K" x="-251.46" y="265.43"/>
+<element name="R_LED8" library="SparkFun-Resistors" package="0603-RES" value="1K" x="-255.27" y="265.43"/>
+<element name="R_ELF'" library="SparkFun-Resistors" package="0603-RES" value="47K" x="-137.16" y="265.43"/>
+<element name="R_ELF" library="SparkFun-Resistors" package="0603-RES" value="39" x="-140.97" y="265.43"/>
+<element name="R_ELD'" library="SparkFun-Resistors" package="0603-RES" value="47K" x="-144.78" y="265.43"/>
+<element name="R_ELS'" library="SparkFun-Resistors" package="0603-RES" value="47K" x="-148.59" y="265.43"/>
+<element name="R_ERS'" library="SparkFun-Resistors" package="0603-RES" value="47K" x="-152.4" y="265.43"/>
+<element name="R_ERD'" library="SparkFun-Resistors" package="0603-RES" value="47K" x="-156.21" y="265.43"/>
+<element name="REC_LF" library="sfh4550 _ teft4300" package="RECEIVER" value="RECEIVER" x="-130.81" y="250.19"/>
+<element name="REC_LD" library="sfh4550 _ teft4300" package="RECEIVER" value="RECEIVER" x="-138.43" y="250.19"/>
+<element name="REC_LS" library="sfh4550 _ teft4300" package="RECEIVER" value="RECEIVER" x="-146.05" y="250.19"/>
+<element name="REC_RS" library="sfh4550 _ teft4300" package="RECEIVER" value="RECEIVER" x="-153.67" y="250.19"/>
+<element name="REC_RD" library="sfh4550 _ teft4300" package="RECEIVER" value="RECEIVER" x="-161.29" y="250.19"/>
+<element name="REC_RF" library="sfh4550 _ teft4300" package="RECEIVER" value="RECEIVER" x="-168.91" y="250.19"/>
+<element name="RESET" library="SparkFun-Retired" package="TACTILE-PTH" value="" x="-121.92" y="250.19"/>
 <element name="R_B1" library="SparkFun" package="0603-RES" value="47K" x="-118.11" y="271.78"/>
 <element name="R_RST" library="SparkFun" package="0402-RES" value="10K" x="-125.73" y="271.78"/>
 <element name="SERIAL" library="pinhead" library_urn="urn:adsk.eagle:library:325" package="1X02" package3d_urn="urn:adsk.eagle:package:22435/2" value="" x="-48.26" y="265.43"/>
-<element name="SG1" library="SparkFun" package="BUZZER-12MM" value="BUZZERPTH" x="-44.45" y="252.73"/>
-<element name="T1" library="transistor-small-signal" library_urn="urn:adsk.eagle:library:401" package="SOT23" package3d_urn="urn:adsk.eagle:package:29752/1" value="BSS123" x="-177.8" y="250.19"/>
-<element name="T2" library="transistor-small-signal" library_urn="urn:adsk.eagle:library:401" package="SOT23" package3d_urn="urn:adsk.eagle:package:29752/1" value="BSS123" x="-185.42" y="250.19"/>
-<element name="T3" library="transistor-small-signal" library_urn="urn:adsk.eagle:library:401" package="SOT23" package3d_urn="urn:adsk.eagle:package:29752/1" value="BSS123" x="-193.04" y="250.19"/>
-<element name="T4" library="transistor-small-signal" library_urn="urn:adsk.eagle:library:401" package="SOT23" package3d_urn="urn:adsk.eagle:package:29752/1" value="BSS123" x="-200.66" y="250.19"/>
-<element name="T5" library="transistor-small-signal" library_urn="urn:adsk.eagle:library:401" package="SOT23" package3d_urn="urn:adsk.eagle:package:29752/1" value="BSS123" x="-208.28" y="250.19"/>
-<element name="T6" library="transistor-small-signal" library_urn="urn:adsk.eagle:library:401" package="SOT23" package3d_urn="urn:adsk.eagle:package:29752/1" value="BSS123" x="-215.9" y="250.19"/>
-<element name="T7" library="transistor-small-signal" library_urn="urn:adsk.eagle:library:401" package="SOT23" package3d_urn="urn:adsk.eagle:package:29752/1" value="BSS123" x="-223.52" y="250.19"/>
+<element name="BUZZER" library="SparkFun" package="BUZZER-12MM" value="BUZZERPTH" x="-44.45" y="252.73"/>
+<element name="T_LF" library="transistor-small-signal" library_urn="urn:adsk.eagle:library:401" package="SOT23" package3d_urn="urn:adsk.eagle:package:29752/1" value="BSS123" x="-177.8" y="250.19"/>
+<element name="T_LD" library="transistor-small-signal" library_urn="urn:adsk.eagle:library:401" package="SOT23" package3d_urn="urn:adsk.eagle:package:29752/1" value="BSS123" x="-185.42" y="250.19"/>
+<element name="T_LS" library="transistor-small-signal" library_urn="urn:adsk.eagle:library:401" package="SOT23" package3d_urn="urn:adsk.eagle:package:29752/1" value="BSS123" x="-193.04" y="250.19"/>
+<element name="T_RS" library="transistor-small-signal" library_urn="urn:adsk.eagle:library:401" package="SOT23" package3d_urn="urn:adsk.eagle:package:29752/1" value="BSS123" x="-200.66" y="250.19"/>
+<element name="T_RD" library="transistor-small-signal" library_urn="urn:adsk.eagle:library:401" package="SOT23" package3d_urn="urn:adsk.eagle:package:29752/1" value="BSS123" x="-208.28" y="250.19"/>
+<element name="T_RF" library="transistor-small-signal" library_urn="urn:adsk.eagle:library:401" package="SOT23" package3d_urn="urn:adsk.eagle:package:29752/1" value="BSS123" x="-215.9" y="250.19"/>
+<element name="T_BUZ" library="transistor-small-signal" library_urn="urn:adsk.eagle:library:401" package="SOT23" package3d_urn="urn:adsk.eagle:package:29752/1" value="BSS123" x="-223.52" y="250.19"/>
 <element name="U$1" library="JST_CONNECTOR_FEMALE. through hole" package="JST_CONNECTOR_FEMALE" value="JST_CONNECTOR_FEMALE" x="-101.6" y="248.92"/>
 <element name="U$19" library="splitter" package="SPLITTER" value="SPLITTER" x="-129.54" y="270.51"/>
 <element name="U$2" library="TPS73633(SOT-23)" package="TPS73633(SOT-23)" value="TPS73633(SOT-23)" x="-233.68" y="248.92"/>
@@ -1279,6 +1279,7 @@ design rules under a new name.</description>
 <element name="U$4" library="STM32F10x F4xx" package="STM32F405/415_LQFP64" value="STM32F405/415_LQFP64" x="-31.75" y="252.73"/>
 <element name="U$6" library="LY3200ALH" package="LY3200ALH" value="LY3200ALH" x="-228.6" y="248.92"/>
 <element name="SW1" library="special" library_urn="urn:adsk.eagle:library:367" package="EDG-04" package3d_urn="urn:adsk.eagle:package:26655/2" value="" x="-262.89" y="-16.51"/>
+<element name="C_VCAP2" library="SparkFun" package="0603-CAP" value="2.2uF" x="-270.51" y="-29.21"/>
 </elements>
 <signals>
 <signal name="N$2">
@@ -1291,48 +1292,47 @@ design rules under a new name.</description>
 <contactref element="C5V_IN" pad="2"/>
 <contactref element="C5V_OUT" pad="2"/>
 <contactref element="U$3" pad="EN(BAR)"/>
-<contactref element="R2" pad="1"/>
-<contactref element="C_E1" pad="2"/>
-<contactref element="C_E2" pad="2"/>
-<contactref element="T1" pad="2"/>
-<contactref element="C_E3" pad="2"/>
-<contactref element="T2" pad="2"/>
-<contactref element="C_E4" pad="2"/>
-<contactref element="T3" pad="2"/>
-<contactref element="C_E6" pad="2"/>
-<contactref element="C_E5" pad="2"/>
-<contactref element="T4" pad="2"/>
-<contactref element="C_E7" pad="2"/>
-<contactref element="C_E8" pad="2"/>
-<contactref element="T5" pad="2"/>
-<contactref element="C_E9" pad="2"/>
-<contactref element="C_E10" pad="2"/>
-<contactref element="T6" pad="2"/>
-<contactref element="C_E11" pad="2"/>
-<contactref element="C_E12" pad="2"/>
-<contactref element="R4" pad="2"/>
-<contactref element="R10" pad="2"/>
-<contactref element="R9" pad="2"/>
-<contactref element="R8" pad="2"/>
-<contactref element="R7" pad="2"/>
-<contactref element="R6" pad="2"/>
+<contactref element="R_VM'" pad="1"/>
+<contactref element="C_ELF" pad="2"/>
+<contactref element="C_ELF'" pad="2"/>
+<contactref element="T_LF" pad="2"/>
+<contactref element="C_ELD" pad="2"/>
+<contactref element="T_LD" pad="2"/>
+<contactref element="C_ELD'" pad="2"/>
+<contactref element="T_LS" pad="2"/>
+<contactref element="C_ELS'" pad="2"/>
+<contactref element="C_ELS" pad="2"/>
+<contactref element="T_RS" pad="2"/>
+<contactref element="C_ERS" pad="2"/>
+<contactref element="C_ERS'" pad="2"/>
+<contactref element="T_RD" pad="2"/>
+<contactref element="C_ERD" pad="2"/>
+<contactref element="C_ERD'" pad="2"/>
+<contactref element="T_RF" pad="2"/>
+<contactref element="C_ERF" pad="2"/>
+<contactref element="C_ERF'" pad="2"/>
+<contactref element="R_ELF'" pad="2"/>
+<contactref element="R_ERF'" pad="2"/>
+<contactref element="R_ERD'" pad="2"/>
+<contactref element="R_ERS'" pad="2"/>
+<contactref element="R_ELS'" pad="2"/>
+<contactref element="R_ELD'" pad="2"/>
 <contactref element="U$4" pad="VCAP_2"/>
-<contactref element="C_M8" pad="2"/>
-<contactref element="U$4" pad="VCAP_1"/>
-<contactref element="C_M2" pad="1"/>
-<contactref element="C_M1" pad="2"/>
+<contactref element="C_V2" pad="2"/>
+<contactref element="C_VCAP1" pad="1"/>
+<contactref element="C_V1" pad="2"/>
 <contactref element="U$1" pad="-"/>
 <contactref element="U$20" pad="2"/>
 <contactref element="U$19" pad="2"/>
 <contactref element="U$4" pad="VSSA"/>
-<contactref element="C_M4" pad="2"/>
-<contactref element="C_M5" pad="2"/>
-<contactref element="C_M7" pad="2"/>
+<contactref element="C_V4" pad="2"/>
+<contactref element="C_V5" pad="2"/>
+<contactref element="C_V3" pad="2"/>
 <contactref element="U$4" pad="VSS_1"/>
 <contactref element="MCU" pad="1"/>
-<contactref element="C_M6" pad="1"/>
+<contactref element="C_VBAT" pad="1"/>
 <contactref element="U$4" pad="VSS_0"/>
-<contactref element="C_M3" pad="2"/>
+<contactref element="C_V0" pad="2"/>
 <contactref element="C3V_IN" pad="2"/>
 <contactref element="U$2" pad="GND"/>
 <contactref element="C3V_OUT" pad="2"/>
@@ -1341,16 +1341,16 @@ design rules under a new name.</description>
 <contactref element="ENC_L" pad="2"/>
 <contactref element="U$4" pad="PB2"/>
 <contactref element="R_B1" pad="1"/>
-<contactref element="R20" pad="1"/>
-<contactref element="MCU1" pad="2"/>
+<contactref element="R_B0'" pad="1"/>
+<contactref element="BLUETOOTH" pad="2"/>
 <contactref element="R_B1" pad="2"/>
-<contactref element="T7" pad="2"/>
-<contactref element="R26" pad="2"/>
-<contactref element="R28" pad="2"/>
-<contactref element="R31" pad="2"/>
-<contactref element="R30" pad="2"/>
-<contactref element="R29" pad="2"/>
-<contactref element="RST" pad="4"/>
+<contactref element="T_BUZ" pad="2"/>
+<contactref element="R_BUZ'" pad="2"/>
+<contactref element="R_D1" pad="2"/>
+<contactref element="R_D4" pad="2"/>
+<contactref element="R_D3" pad="2"/>
+<contactref element="R_D2" pad="2"/>
+<contactref element="RESET" pad="4"/>
 <contactref element="BAT_LED" pad="C"/>
 <contactref element="LED1" pad="C"/>
 <contactref element="LED2" pad="C"/>
@@ -1360,6 +1360,7 @@ design rules under a new name.</description>
 <contactref element="LED6" pad="C"/>
 <contactref element="LED7" pad="C"/>
 <contactref element="LED8" pad="C"/>
+<contactref element="C_VCAP2" pad="2"/>
 <wire x1="-25.82" y1="271.78" x2="-22.01" y2="271.78" width="0" layer="19" extent="1-1"/>
 <wire x1="-29.63" y1="271.78" x2="-25.82" y2="271.78" width="0" layer="19" extent="1-1"/>
 <wire x1="-33.44" y1="271.78" x2="-29.63" y2="271.78" width="0" layer="19" extent="1-1"/>
@@ -1405,11 +1406,10 @@ design rules under a new name.</description>
 <wire x1="-155.36" y1="265.43" x2="-151.55" y2="265.43" width="0" layer="19" extent="1-1"/>
 <wire x1="-159.17" y1="265.43" x2="-155.36" y2="265.43" width="0" layer="19" extent="1-1"/>
 <wire x1="-35" y1="258.48" x2="-33.44" y2="271.78" width="0" layer="19" extent="1-1"/>
-<wire x1="-26" y1="255.98" x2="-35" y2="258.48" width="0" layer="19" extent="1-1"/>
-<wire x1="-26" y1="254.48" x2="-26" y2="255.98" width="0" layer="19" extent="1-1"/>
-<wire x1="-26" y1="249.48" x2="-26" y2="254.48" width="0" layer="19" extent="1-1"/>
-<wire x1="-30" y1="246.98" x2="-26" y2="249.48" width="0" layer="19" extent="1-1"/>
-<wire x1="-37.5" y1="249.48" x2="-30" y2="246.98" width="0" layer="19" extent="1-1"/>
+<wire x1="-37.5" y1="249.48" x2="-35" y2="258.48" width="0" layer="19" extent="1-1"/>
+<wire x1="-30" y1="246.98" x2="-37.5" y2="249.48" width="0" layer="19" extent="1-1"/>
+<wire x1="-26" y1="249.48" x2="-30" y2="246.98" width="0" layer="19" extent="1-1"/>
+<wire x1="-26" y1="254.48" x2="-26" y2="249.48" width="0" layer="19" extent="1-1"/>
 <wire x1="-83.185" y1="248.76" x2="-84.57" y2="264.16" width="0" layer="19" extent="1-1"/>
 <wire x1="-81.915" y1="248.76" x2="-83.185" y2="248.76" width="0" layer="19" extent="1-1"/>
 <wire x1="-118.6688" y1="247.9294" x2="-119.15" y2="264.16" width="0" layer="19" extent="1-1"/>
@@ -1432,6 +1432,7 @@ design rules under a new name.</description>
 <wire x1="-258.23" y1="265.43" x2="-254" y2="248.92" width="0" layer="19" extent="1-1"/>
 <wire x1="-262.04" y1="265.43" x2="-258.23" y2="265.43" width="0" layer="19" extent="1-1"/>
 <wire x1="-265.85" y1="265.43" x2="-262.04" y2="265.43" width="0" layer="19" extent="1-1"/>
+<wire x1="-269.66" y1="-29.21" x2="-254" y2="248.92" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$1">
 <contactref element="JST" pad="+"/>
@@ -1443,7 +1444,7 @@ design rules under a new name.</description>
 <contactref element="U$3" pad="IN1"/>
 <contactref element="U$3" pad="IN2"/>
 <contactref element="C5V_IN" pad="1"/>
-<contactref element="R1" pad="2"/>
+<contactref element="R_VM" pad="2"/>
 <contactref element="IC2" pad="10"/>
 <wire x1="-16.09" y1="271.78" x2="-20.32" y2="252.73" width="0" layer="19" extent="1-1"/>
 <wire x1="-64.135" y1="248.13" x2="-20.32" y2="252.73" width="0" layer="19" extent="1-1"/>
@@ -1455,25 +1456,25 @@ design rules under a new name.</description>
 <contactref element="U$3" pad="OUT1"/>
 <contactref element="U$3" pad="OUT2"/>
 <contactref element="C5V_OUT" pad="1"/>
-<contactref element="IR1" pad="+"/>
-<contactref element="C_E1" pad="1"/>
-<contactref element="C_E2" pad="1"/>
-<contactref element="IR2" pad="+"/>
-<contactref element="C_E3" pad="1"/>
-<contactref element="C_E4" pad="1"/>
-<contactref element="IR3" pad="+"/>
-<contactref element="C_E5" pad="1"/>
-<contactref element="C_E6" pad="1"/>
-<contactref element="IR4" pad="+"/>
-<contactref element="C_E7" pad="1"/>
-<contactref element="C_E8" pad="1"/>
-<contactref element="IR5" pad="+"/>
-<contactref element="C_E9" pad="1"/>
-<contactref element="C_E10" pad="1"/>
-<contactref element="IR6" pad="+"/>
-<contactref element="C_E11" pad="1"/>
-<contactref element="C_E12" pad="1"/>
-<contactref element="R17" pad="2"/>
+<contactref element="IR_LF" pad="+"/>
+<contactref element="C_ELF" pad="1"/>
+<contactref element="C_ELF'" pad="1"/>
+<contactref element="IR_LD" pad="+"/>
+<contactref element="C_ELD" pad="1"/>
+<contactref element="C_ELD'" pad="1"/>
+<contactref element="IR_LS" pad="+"/>
+<contactref element="C_ELS" pad="1"/>
+<contactref element="C_ELS'" pad="1"/>
+<contactref element="IR_RS" pad="+"/>
+<contactref element="C_ERS" pad="1"/>
+<contactref element="C_ERS'" pad="1"/>
+<contactref element="IR_RD" pad="+"/>
+<contactref element="C_ERD" pad="1"/>
+<contactref element="C_ERD'" pad="1"/>
+<contactref element="IR_RF" pad="+"/>
+<contactref element="C_ERF" pad="1"/>
+<contactref element="C_ERF'" pad="1"/>
+<contactref element="R_BLED" pad="2"/>
 <contactref element="IC2" pad="20"/>
 <contactref element="IC2" pad="1"/>
 <contactref element="IC2" pad="11"/>
@@ -1513,39 +1514,40 @@ design rules under a new name.</description>
 <wire x1="-267.55" y1="265.43" x2="-263.74" y2="265.43" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="3.3V">
-<contactref element="REC1" pad="C"/>
-<contactref element="REC2" pad="C"/>
-<contactref element="REC3" pad="C"/>
-<contactref element="REC4" pad="C"/>
-<contactref element="REC5" pad="C"/>
-<contactref element="REC6" pad="C"/>
+<contactref element="REC_LF" pad="C"/>
+<contactref element="REC_LD" pad="C"/>
+<contactref element="REC_LS" pad="C"/>
+<contactref element="REC_RS" pad="C"/>
+<contactref element="REC_RD" pad="C"/>
+<contactref element="REC_RF" pad="C"/>
 <contactref element="R_RST" pad="2"/>
 <contactref element="U$6" pad="1.VDD@1"/>
 <contactref element="C_G1" pad="1"/>
 <contactref element="U$6" pad="9.VDD@2"/>
-<contactref element="C_M8" pad="1"/>
+<contactref element="C_V2" pad="1"/>
 <contactref element="U$4" pad="VDD_2"/>
-<contactref element="C_M4" pad="1"/>
+<contactref element="C_V4" pad="1"/>
 <contactref element="U$4" pad="VDDA"/>
-<contactref element="C_M5" pad="1"/>
+<contactref element="C_V5" pad="1"/>
 <contactref element="U$4" pad="VBAT"/>
-<contactref element="C_M6" pad="2"/>
-<contactref element="C_M3" pad="1"/>
+<contactref element="C_VBAT" pad="2"/>
+<contactref element="C_V0" pad="1"/>
 <contactref element="U$4" pad="VDD_0"/>
 <contactref element="U$4" pad="VDD_3"/>
-<contactref element="C_M7" pad="1"/>
+<contactref element="C_V3" pad="1"/>
 <contactref element="U$4" pad="VDD_1"/>
-<contactref element="C_M1" pad="1"/>
+<contactref element="C_V1" pad="1"/>
 <contactref element="U$2" pad="OUT"/>
 <contactref element="C3V_OUT" pad="1"/>
 <contactref element="BOOT" pad="4"/>
-<contactref element="MCU1" pad="1"/>
-<contactref element="R27" pad="1"/>
-<contactref element="SG1" pad="+"/>
+<contactref element="BLUETOOTH" pad="1"/>
+<contactref element="R_BUZ" pad="1"/>
+<contactref element="BUZZER" pad="+"/>
 <contactref element="SW1" pad="4"/>
 <contactref element="SW1" pad="3"/>
 <contactref element="SW1" pad="2"/>
 <contactref element="SW1" pad="1"/>
+<contactref element="C_VCAP2" pad="1"/>
 <wire x1="-26" y1="249.98" x2="-26" y2="256.48" width="0" layer="19" extent="1-1"/>
 <wire x1="-29.5" y1="246.98" x2="-26" y2="249.98" width="0" layer="19" extent="1-1"/>
 <wire x1="-35.5" y1="246.98" x2="-29.5" y2="246.98" width="0" layer="19" extent="1-1"/>
@@ -1578,6 +1580,7 @@ design rules under a new name.</description>
 <wire x1="-261.62" y1="-20.32" x2="-259.08" y2="-20.32" width="0" layer="19" extent="1-1"/>
 <wire x1="-264.16" y1="-20.32" x2="-261.62" y2="-20.32" width="0" layer="19" extent="1-1"/>
 <wire x1="-266.7" y1="-20.32" x2="-264.16" y2="-20.32" width="0" layer="19" extent="1-1"/>
+<wire x1="-271.36" y1="-29.21" x2="-266.7" y2="-20.32" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="M1F">
 <contactref element="IC2" pad="3"/>
@@ -1614,42 +1617,42 @@ design rules under a new name.</description>
 <wire x1="-132.08" y1="270.51" x2="-71.755" y2="257.33" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="IR1">
-<contactref element="IR1" pad="-"/>
-<contactref element="R5" pad="1"/>
+<contactref element="IR_LF" pad="-"/>
+<contactref element="R_ELF" pad="1"/>
 <wire x1="-33.02" y1="2.04" x2="-141.82" y2="265.43" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="IR2">
-<contactref element="IR2" pad="-"/>
-<contactref element="R11" pad="1"/>
+<contactref element="IR_LD" pad="-"/>
+<contactref element="R_ELD" pad="1"/>
 <wire x1="-76.2" y1="2.04" x2="-164.68" y2="265.43" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$11">
-<contactref element="T2" pad="3"/>
-<contactref element="R11" pad="2"/>
+<contactref element="T_LD" pad="3"/>
+<contactref element="R_ELD" pad="2"/>
 <wire x1="-185.42" y1="251.29" x2="-162.98" y2="265.43" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$4">
-<contactref element="T3" pad="3"/>
-<contactref element="R12" pad="2"/>
+<contactref element="T_LS" pad="3"/>
+<contactref element="R_ELS" pad="2"/>
 <wire x1="-193.04" y1="251.29" x2="-166.79" y2="265.43" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="IR3">
-<contactref element="IR3" pad="-"/>
-<contactref element="R12" pad="1"/>
+<contactref element="IR_LS" pad="-"/>
+<contactref element="R_ELS" pad="1"/>
 <wire x1="-168.49" y1="265.43" x2="-119.38" y2="2.04" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="IR4">
-<contactref element="IR4" pad="-"/>
-<contactref element="R13" pad="1"/>
+<contactref element="IR_RS" pad="-"/>
+<contactref element="R_ERS" pad="1"/>
 <wire x1="-172.3" y1="265.43" x2="-162.56" y2="2.04" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$17">
-<contactref element="T4" pad="3"/>
-<contactref element="R13" pad="2"/>
+<contactref element="T_RS" pad="3"/>
+<contactref element="R_ERS" pad="2"/>
 <wire x1="-200.66" y1="251.29" x2="-170.6" y2="265.43" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="NRST">
-<contactref element="RST" pad="1"/>
+<contactref element="RESET" pad="1"/>
 <contactref element="R_RST" pad="1"/>
 <contactref element="U$4" pad="NRST"/>
 <contactref element="MCU" pad="2"/>
@@ -1665,12 +1668,12 @@ design rules under a new name.</description>
 <contactref element="R3" pad="1"/>
 <contactref element="C_G3" pad="2"/>
 <contactref element="U$19" pad="1"/>
-<contactref element="R16" pad="2"/>
-<contactref element="R21" pad="2"/>
-<contactref element="R22" pad="2"/>
-<contactref element="R23" pad="2"/>
-<contactref element="R24" pad="2"/>
-<contactref element="R25" pad="2"/>
+<contactref element="R_RLF" pad="2"/>
+<contactref element="R_RLD" pad="2"/>
+<contactref element="R_RLS" pad="2"/>
+<contactref element="R_RRS" pad="2"/>
+<contactref element="R_RRD" pad="2"/>
+<contactref element="R_RRF" pad="2"/>
 <wire x1="-71.54" y1="271.78" x2="-63.92" y2="271.78" width="0" layer="19" extent="1-1"/>
 <wire x1="-129.54" y1="270.51" x2="-71.54" y2="271.78" width="0" layer="19" extent="1-1"/>
 <wire x1="-134.2" y1="265.43" x2="-129.54" y2="270.51" width="0" layer="19" extent="1-1"/>
@@ -1696,51 +1699,46 @@ design rules under a new name.</description>
 <contactref element="R3" pad="2"/>
 <wire x1="-132.5" y1="265.43" x2="-67.73" y2="271.78" width="0" layer="19" extent="1-1"/>
 </signal>
-<signal name="N$5">
-<contactref element="U$4" pad="PB11"/>
-<contactref element="C_M2" pad="2"/>
-<wire x1="-79.16" y1="271.78" x2="-26" y2="255.48" width="0" layer="19" extent="1-1"/>
-</signal>
 <signal name="N$3">
 <contactref element="U$2" pad="NR/FB"/>
 <contactref element="C_NR" pad="1"/>
 <wire x1="-232.73" y1="250.27" x2="-107.53" y2="271.78" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="VOLTMETER">
-<contactref element="R1" pad="1"/>
-<contactref element="R2" pad="2"/>
+<contactref element="R_VM" pad="1"/>
+<contactref element="R_VM'" pad="2"/>
 <contactref element="U$4" pad="PC3"/>
 <wire x1="-126.58" y1="265.43" x2="-30.5" y2="246.98" width="0" layer="19" extent="1-1"/>
 <wire x1="-128.69" y1="265.43" x2="-126.58" y2="265.43" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="BOOT0">
-<contactref element="R32" pad="2"/>
+<contactref element="R_B0" pad="2"/>
 <contactref element="U$4" pad="BOOT0"/>
 <wire x1="-113.45" y1="271.78" x2="-37.5" y2="250.98" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$100">
-<contactref element="T1" pad="3"/>
-<contactref element="R5" pad="2"/>
+<contactref element="T_LF" pad="3"/>
+<contactref element="R_ELF" pad="2"/>
 <wire x1="-177.8" y1="251.29" x2="-140.12" y2="265.43" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="IR5">
-<contactref element="IR5" pad="-"/>
-<contactref element="R14" pad="1"/>
+<contactref element="IR_RD" pad="-"/>
+<contactref element="R_ERD" pad="1"/>
 <wire x1="-176.11" y1="265.43" x2="-205.74" y2="2.04" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$6">
-<contactref element="T5" pad="3"/>
-<contactref element="R14" pad="2"/>
+<contactref element="T_RD" pad="3"/>
+<contactref element="R_ERD" pad="2"/>
 <wire x1="-208.28" y1="251.29" x2="-174.41" y2="265.43" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="IR6">
-<contactref element="IR6" pad="-"/>
-<contactref element="R15" pad="1"/>
+<contactref element="IR_RF" pad="-"/>
+<contactref element="R_ERF" pad="1"/>
 <wire x1="-179.92" y1="265.43" x2="-248.92" y2="2.04" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$9">
-<contactref element="T6" pad="3"/>
-<contactref element="R15" pad="2"/>
+<contactref element="T_RF" pad="3"/>
+<contactref element="R_ERF" pad="2"/>
 <wire x1="-215.9" y1="251.29" x2="-178.22" y2="265.43" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="VREF">
@@ -1750,14 +1748,14 @@ design rules under a new name.</description>
 </signal>
 <signal name="RX">
 <contactref element="SERIAL" pad="2"/>
-<contactref element="MCU1" pad="4"/>
+<contactref element="BLUETOOTH" pad="4"/>
 <contactref element="U$4" pad="PA10"/>
 <wire x1="-46.99" y1="265.43" x2="-33" y2="258.48" width="0" layer="19" extent="1-1"/>
 <wire x1="-248.92" y1="248.92" x2="-46.99" y2="265.43" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="TX">
 <contactref element="SERIAL" pad="1"/>
-<contactref element="MCU1" pad="3"/>
+<contactref element="BLUETOOTH" pad="3"/>
 <contactref element="U$4" pad="PA9"/>
 <wire x1="-49.53" y1="265.43" x2="-32.5" y2="258.48" width="0" layer="19" extent="1-1"/>
 <wire x1="-251.46" y1="248.92" x2="-49.53" y2="265.43" width="0" layer="19" extent="1-1"/>
@@ -1798,85 +1796,85 @@ design rules under a new name.</description>
 <wire x1="-74.295" y1="257.33" x2="-37.5" y2="249.98" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="EMIT_LF">
-<contactref element="T1" pad="1"/>
-<contactref element="R4" pad="1"/>
+<contactref element="T_LF" pad="1"/>
+<contactref element="R_ELF'" pad="1"/>
 <contactref element="U$4" pad="PC6"/>
 <wire x1="-138.01" y1="265.43" x2="-30" y2="258.48" width="0" layer="19" extent="1-1"/>
 <wire x1="-178.75" y1="249.09" x2="-138.01" y2="265.43" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="EMIT_LD">
-<contactref element="T2" pad="1"/>
-<contactref element="R6" pad="1"/>
+<contactref element="T_LD" pad="1"/>
+<contactref element="R_ELD'" pad="1"/>
 <contactref element="U$4" pad="PB14"/>
 <wire x1="-145.63" y1="265.43" x2="-29" y2="258.48" width="0" layer="19" extent="1-1"/>
 <wire x1="-186.37" y1="249.09" x2="-145.63" y2="265.43" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="EMIT_LS">
-<contactref element="T3" pad="1"/>
-<contactref element="R7" pad="1"/>
+<contactref element="T_LS" pad="1"/>
+<contactref element="R_ELS'" pad="1"/>
 <contactref element="U$4" pad="PB10"/>
 <wire x1="-149.44" y1="265.43" x2="-26" y2="254.98" width="0" layer="19" extent="1-1"/>
 <wire x1="-193.99" y1="249.09" x2="-149.44" y2="265.43" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="EMIT_RS">
-<contactref element="T4" pad="1"/>
-<contactref element="R8" pad="1"/>
+<contactref element="T_RS" pad="1"/>
+<contactref element="R_ERS'" pad="1"/>
 <contactref element="U$4" pad="PA3"/>
 <wire x1="-153.25" y1="265.43" x2="-26" y2="248.98" width="0" layer="19" extent="1-1"/>
 <wire x1="-201.61" y1="249.09" x2="-153.25" y2="265.43" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="EMIT_RD">
-<contactref element="T5" pad="1"/>
-<contactref element="R9" pad="1"/>
+<contactref element="T_RD" pad="1"/>
+<contactref element="R_ERD'" pad="1"/>
 <contactref element="U$4" pad="PC2"/>
 <wire x1="-157.06" y1="265.43" x2="-31" y2="246.98" width="0" layer="19" extent="1-1"/>
 <wire x1="-209.23" y1="249.09" x2="-157.06" y2="265.43" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="EMIT_RF">
-<contactref element="T6" pad="1"/>
-<contactref element="R10" pad="1"/>
+<contactref element="T_RF" pad="1"/>
+<contactref element="R_ERF'" pad="1"/>
 <contactref element="U$4" pad="PC0"/>
 <wire x1="-160.87" y1="265.43" x2="-32" y2="246.98" width="0" layer="19" extent="1-1"/>
 <wire x1="-216.85" y1="249.09" x2="-160.87" y2="265.43" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="REC_RF">
-<contactref element="REC6" pad="E"/>
-<contactref element="R25" pad="1"/>
+<contactref element="REC_RF" pad="E"/>
+<contactref element="R_RRF" pad="1"/>
 <contactref element="U$4" pad="PA4"/>
 <wire x1="-170.18" y1="249.69" x2="-26" y2="250.48" width="0" layer="19" extent="1-1"/>
 <wire x1="-210.4" y1="265.43" x2="-170.18" y2="249.69" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="REC_RD">
-<contactref element="REC5" pad="E"/>
-<contactref element="R24" pad="1"/>
+<contactref element="REC_RD" pad="E"/>
+<contactref element="R_RRD" pad="1"/>
 <contactref element="U$4" pad="PA5"/>
 <wire x1="-162.56" y1="249.69" x2="-26" y2="250.98" width="0" layer="19" extent="1-1"/>
 <wire x1="-206.59" y1="265.43" x2="-162.56" y2="249.69" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="REC_RS">
-<contactref element="REC4" pad="E"/>
-<contactref element="R23" pad="1"/>
+<contactref element="REC_RS" pad="E"/>
+<contactref element="R_RRS" pad="1"/>
 <contactref element="U$4" pad="PA6"/>
 <wire x1="-154.94" y1="249.69" x2="-26" y2="251.48" width="0" layer="19" extent="1-1"/>
 <wire x1="-202.78" y1="265.43" x2="-154.94" y2="249.69" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="REC_LS">
-<contactref element="REC3" pad="E"/>
-<contactref element="R22" pad="1"/>
+<contactref element="REC_LS" pad="E"/>
+<contactref element="R_RLS" pad="1"/>
 <contactref element="U$4" pad="PA7"/>
 <wire x1="-147.32" y1="249.69" x2="-26" y2="251.98" width="0" layer="19" extent="1-1"/>
 <wire x1="-198.97" y1="265.43" x2="-147.32" y2="249.69" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="REC_LD">
-<contactref element="REC2" pad="E"/>
-<contactref element="R21" pad="1"/>
+<contactref element="REC_LD" pad="E"/>
+<contactref element="R_RLD" pad="1"/>
 <contactref element="U$4" pad="PB0"/>
 <wire x1="-139.7" y1="249.69" x2="-26" y2="253.48" width="0" layer="19" extent="1-1"/>
 <wire x1="-195.16" y1="265.43" x2="-139.7" y2="249.69" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="REC_LF">
-<contactref element="REC1" pad="E"/>
-<contactref element="R16" pad="1"/>
+<contactref element="REC_LF" pad="E"/>
+<contactref element="R_RLF" pad="1"/>
 <contactref element="U$4" pad="PB1"/>
 <wire x1="-132.08" y1="249.69" x2="-26" y2="253.98" width="0" layer="19" extent="1-1"/>
 <wire x1="-183.73" y1="265.43" x2="-132.08" y2="249.69" width="0" layer="19" extent="1-1"/>
@@ -1888,27 +1886,27 @@ design rules under a new name.</description>
 </signal>
 <signal name="DIP1">
 <contactref element="U$4" pad="PC10"/>
-<contactref element="R28" pad="1"/>
+<contactref element="R_D1" pad="1"/>
 <contactref element="SW1" pad="5"/>
 <wire x1="-221.83" y1="265.43" x2="-37.5" y2="255.48" width="0" layer="19" extent="1-1"/>
 <wire x1="-259.08" y1="-12.7" x2="-221.83" y2="265.43" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="DIP2">
-<contactref element="R29" pad="1"/>
+<contactref element="R_D2" pad="1"/>
 <contactref element="U$4" pad="PC11"/>
 <contactref element="SW1" pad="6"/>
 <wire x1="-225.64" y1="265.43" x2="-37.5" y2="254.98" width="0" layer="19" extent="1-1"/>
 <wire x1="-261.62" y1="-12.7" x2="-225.64" y2="265.43" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="DIP3">
-<contactref element="R30" pad="1"/>
+<contactref element="R_D3" pad="1"/>
 <contactref element="U$4" pad="PC12"/>
 <contactref element="SW1" pad="7"/>
 <wire x1="-229.45" y1="265.43" x2="-37.5" y2="254.48" width="0" layer="19" extent="1-1"/>
 <wire x1="-264.16" y1="-12.7" x2="-229.45" y2="265.43" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="DIP4">
-<contactref element="R31" pad="1"/>
+<contactref element="R_D4" pad="1"/>
 <contactref element="U$4" pad="PD2"/>
 <contactref element="SW1" pad="8"/>
 <wire x1="-233.26" y1="265.43" x2="-37.5" y2="253.98" width="0" layer="19" extent="1-1"/>
@@ -1936,109 +1934,114 @@ design rules under a new name.</description>
 </signal>
 <signal name="BUZZER">
 <contactref element="U$4" pad="PA2"/>
-<contactref element="T7" pad="1"/>
-<contactref element="R26" pad="1"/>
+<contactref element="T_BUZ" pad="1"/>
+<contactref element="R_BUZ'" pad="1"/>
 <wire x1="-214.21" y1="265.43" x2="-28" y2="246.98" width="0" layer="19" extent="1-1"/>
 <wire x1="-224.47" y1="249.09" x2="-214.21" y2="265.43" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$13">
-<contactref element="SG1" pad="-"/>
-<contactref element="T7" pad="3"/>
-<contactref element="R27" pad="2"/>
+<contactref element="BUZZER" pad="-"/>
+<contactref element="T_BUZ" pad="3"/>
+<contactref element="R_BUZ" pad="2"/>
 <wire x1="-216.32" y1="265.43" x2="-47.7" y2="252.73" width="0" layer="19" extent="1-1"/>
 <wire x1="-223.52" y1="251.29" x2="-216.32" y2="265.43" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$16">
-<contactref element="R32" pad="1"/>
+<contactref element="R_B0" pad="1"/>
 <contactref element="BOOT" pad="1"/>
-<contactref element="R20" pad="2"/>
+<contactref element="R_B0'" pad="2"/>
 <wire x1="-115.15" y1="271.78" x2="-109.64" y2="271.78" width="0" layer="19" extent="1-1"/>
 <wire x1="-116.2812" y1="252.4506" x2="-115.15" y2="271.78" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$7">
-<contactref element="R17" pad="1"/>
+<contactref element="R_BLED" pad="1"/>
 <contactref element="BAT_LED" pad="A"/>
 <wire x1="-122.15" y1="264.16" x2="-122.57" y2="271.78" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$8">
 <contactref element="LED1" pad="A"/>
-<contactref element="R34" pad="1"/>
+<contactref element="R_LED1" pad="1"/>
 <wire x1="-240.88" y1="265.43" x2="-70.37" y2="264.16" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$12">
 <contactref element="LED2" pad="A"/>
-<contactref element="R18" pad="1"/>
+<contactref element="R_LED2" pad="1"/>
 <wire x1="-187.54" y1="265.43" x2="-76.72" y2="264.16" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$18">
 <contactref element="LED3" pad="A"/>
-<contactref element="R19" pad="1"/>
+<contactref element="R_LED3" pad="1"/>
 <wire x1="-191.35" y1="265.43" x2="-83.07" y2="264.16" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$19">
 <contactref element="LED4" pad="A"/>
-<contactref element="R33" pad="1"/>
+<contactref element="R_LED4" pad="1"/>
 <wire x1="-237.07" y1="265.43" x2="-89.42" y2="264.16" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$20">
 <contactref element="LED5" pad="A"/>
-<contactref element="R35" pad="1"/>
+<contactref element="R_LED5" pad="1"/>
 <wire x1="-244.69" y1="265.43" x2="-95.77" y2="264.16" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$21">
 <contactref element="LED6" pad="A"/>
-<contactref element="R36" pad="1"/>
+<contactref element="R_LED6" pad="1"/>
 <wire x1="-248.5" y1="265.43" x2="-102.12" y2="264.16" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="LED1">
-<contactref element="R34" pad="2"/>
+<contactref element="R_LED1" pad="2"/>
 <contactref element="U$4" pad="PB12"/>
 <wire x1="-239.18" y1="265.43" x2="-28" y2="258.48" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="LED2">
-<contactref element="R18" pad="2"/>
+<contactref element="R_LED2" pad="2"/>
 <contactref element="U$4" pad="PB13"/>
 <wire x1="-185.84" y1="265.43" x2="-28.5" y2="258.48" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="LED3">
-<contactref element="R19" pad="2"/>
+<contactref element="R_LED3" pad="2"/>
 <contactref element="U$4" pad="PC7"/>
 <wire x1="-189.65" y1="265.43" x2="-30.5" y2="258.48" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="LED4">
-<contactref element="R33" pad="2"/>
+<contactref element="R_LED4" pad="2"/>
 <contactref element="U$4" pad="PC8"/>
 <wire x1="-235.37" y1="265.43" x2="-31" y2="258.48" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="LED5">
-<contactref element="R35" pad="2"/>
+<contactref element="R_LED5" pad="2"/>
 <contactref element="U$4" pad="PC9"/>
 <wire x1="-242.99" y1="265.43" x2="-31.5" y2="258.48" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="LED6">
-<contactref element="R36" pad="2"/>
+<contactref element="R_LED6" pad="2"/>
 <contactref element="U$4" pad="PC13"/>
 <wire x1="-246.8" y1="265.43" x2="-35" y2="246.98" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$22">
 <contactref element="LED7" pad="A"/>
-<contactref element="R37" pad="1"/>
+<contactref element="R_LED7" pad="1"/>
 <wire x1="-252.31" y1="265.43" x2="-108.47" y2="264.16" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$23">
 <contactref element="LED8" pad="A"/>
-<contactref element="R38" pad="1"/>
+<contactref element="R_LED8" pad="1"/>
 <wire x1="-256.12" y1="265.43" x2="-114.82" y2="264.16" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="LED7">
-<contactref element="R37" pad="2"/>
+<contactref element="R_LED7" pad="2"/>
 <contactref element="U$4" pad="PB4"/>
 <wire x1="-250.61" y1="265.43" x2="-37.5" y2="252.98" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="LED8">
-<contactref element="R38" pad="2"/>
+<contactref element="R_LED8" pad="2"/>
 <contactref element="U$4" pad="PB5"/>
 <wire x1="-254.42" y1="265.43" x2="-37.5" y2="252.48" width="0" layer="19" extent="1-1"/>
+</signal>
+<signal name="N$5">
+<contactref element="C_VCAP1" pad="2"/>
+<contactref element="U$4" pad="VCAP_1"/>
+<wire x1="-79.16" y1="271.78" x2="-26" y2="255.98" width="0" layer="19" extent="1-1"/>
 </signal>
 </signals>
 </board>
