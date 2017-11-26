@@ -5386,7 +5386,7 @@ Source: www.kingbright.com</description>
 <part name="GND6" library="SparkFun" deviceset="GND" device=""/>
 <part name="R_VM'" library="SparkFun-Resistors" deviceset="RESISTOR" device="0603" value="10K"/>
 <part name="R_VM" library="SparkFun-Resistors" deviceset="RESISTOR" device="0603" value="20K"/>
-<part name="R3" library="SparkFun-Resistors" deviceset="RESISTOR" device="0603" value="10K"/>
+<part name="R_GYRO" library="SparkFun-Resistors" deviceset="RESISTOR" device="0603" value="10K"/>
 <part name="C_G2" library="SparkFun" deviceset="CAP" device="0603-CAP" value="0.47uF"/>
 <part name="C_G3" library="SparkFun" deviceset="CAP" device="0603-CAP" value="0.01uF"/>
 <part name="R_ELF'" library="SparkFun-Resistors" deviceset="RESISTOR" device="0603" value="47K"/>
@@ -5563,7 +5563,7 @@ Source: www.kingbright.com</description>
 <instance part="GND6" gate="1" x="60.96" y="-48.26" rot="R180"/>
 <instance part="R_VM'" gate="G$1" x="-187.96" y="45.72" rot="R90"/>
 <instance part="R_VM" gate="G$1" x="-195.58" y="58.42" rot="R180"/>
-<instance part="R3" gate="G$1" x="-205.74" y="-198.12" rot="R90"/>
+<instance part="R_GYRO" gate="G$1" x="-205.74" y="-198.12" rot="R90"/>
 <instance part="C_G2" gate="G$1" x="-205.74" y="-187.96"/>
 <instance part="C_G3" gate="G$1" x="-195.58" y="-198.12"/>
 <instance part="R_ELF'" gate="G$1" x="-195.58" y="-284.48" rot="R270"/>
@@ -6464,7 +6464,7 @@ Source: www.kingbright.com</description>
 <pinref part="U$6" gate="G$1" pin="8.SLEEP/PD"/>
 <wire x1="-139.7" y1="-170.18" x2="-132.08" y2="-170.18" width="0.1524" layer="91"/>
 <junction x="-132.08" y="-170.18"/>
-<pinref part="R3" gate="G$1" pin="1"/>
+<pinref part="R_GYRO" gate="G$1" pin="1"/>
 <pinref part="C_G3" gate="G$1" pin="2"/>
 </segment>
 <segment>
@@ -6515,7 +6515,7 @@ Source: www.kingbright.com</description>
 <segment>
 <wire x1="-205.74" y1="-190.5" x2="-205.74" y2="-193.04" width="0.1524" layer="91"/>
 <pinref part="C_G2" gate="G$1" pin="2"/>
-<pinref part="R3" gate="G$1" pin="2"/>
+<pinref part="R_GYRO" gate="G$1" pin="2"/>
 </segment>
 </net>
 <net name="C_NR" class="0">
