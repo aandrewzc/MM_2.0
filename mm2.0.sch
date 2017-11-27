@@ -6913,9 +6913,9 @@ Source: www.kingbright.com</description>
 <wire x1="-88.9" y1="-99.06" x2="-88.9" y2="-106.68" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="U$4" gate="G$1" pin="PD2"/>
-<wire x1="63.5" y1="-154.94" x2="63.5" y2="-162.56" width="0.1524" layer="91"/>
-<label x="63.5" y="-162.56" size="0.8128" layer="95" rot="R270" xref="yes"/>
+<pinref part="U$4" gate="G$1" pin="PC10"/>
+<wire x1="55.88" y1="-154.94" x2="55.88" y2="-162.56" width="0.1524" layer="91"/>
+<label x="55.88" y="-162.56" size="0.8128" layer="95" rot="R270" xref="yes"/>
 </segment>
 </net>
 <net name="DIP2" class="0">
@@ -6929,9 +6929,9 @@ Source: www.kingbright.com</description>
 <wire x1="-86.36" y1="-111.76" x2="-86.36" y2="-99.06" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="U$4" gate="G$1" pin="PC12"/>
-<wire x1="60.96" y1="-154.94" x2="60.96" y2="-162.56" width="0.1524" layer="91"/>
-<label x="60.96" y="-162.56" size="0.8128" layer="95" rot="R270" xref="yes"/>
+<pinref part="U$4" gate="G$1" pin="PC11"/>
+<wire x1="58.42" y1="-154.94" x2="58.42" y2="-162.56" width="0.1524" layer="91"/>
+<label x="58.42" y="-162.56" size="0.8128" layer="95" rot="R270" xref="yes"/>
 </segment>
 </net>
 <net name="DIP3" class="0">
@@ -6945,9 +6945,9 @@ Source: www.kingbright.com</description>
 <pinref part="SW1" gate="A" pin="7"/>
 </segment>
 <segment>
-<pinref part="U$4" gate="G$1" pin="PC11"/>
-<wire x1="58.42" y1="-154.94" x2="58.42" y2="-162.56" width="0.1524" layer="91"/>
-<label x="58.42" y="-162.56" size="0.8128" layer="95" rot="R270" xref="yes"/>
+<pinref part="U$4" gate="G$1" pin="PC12"/>
+<wire x1="60.96" y1="-154.94" x2="60.96" y2="-162.56" width="0.1524" layer="91"/>
+<label x="60.96" y="-162.56" size="0.8128" layer="95" rot="R270" xref="yes"/>
 </segment>
 </net>
 <net name="DIP4" class="0">
@@ -6961,9 +6961,9 @@ Source: www.kingbright.com</description>
 <pinref part="SW1" gate="A" pin="8"/>
 </segment>
 <segment>
-<pinref part="U$4" gate="G$1" pin="PC10"/>
-<wire x1="55.88" y1="-154.94" x2="55.88" y2="-162.56" width="0.1524" layer="91"/>
-<label x="55.88" y="-162.56" size="0.8128" layer="95" rot="R270" xref="yes"/>
+<pinref part="U$4" gate="G$1" pin="PD2"/>
+<wire x1="63.5" y1="-154.94" x2="63.5" y2="-162.56" width="0.1524" layer="91"/>
+<label x="63.5" y="-162.56" size="0.8128" layer="95" rot="R270" xref="yes"/>
 </segment>
 </net>
 <net name="ENC_LA" class="0">
