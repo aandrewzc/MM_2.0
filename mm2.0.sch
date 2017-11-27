@@ -5534,7 +5534,7 @@ Source: www.kingbright.com</description>
 <instance part="U$22" gate="G$1" x="-132.08" y="20.32"/>
 <instance part="GND12" gate="1" x="149.86" y="-114.3" rot="R90"/>
 <instance part="R_BLED" gate="G$1" x="53.34" y="58.42" rot="R90"/>
-<instance part="BAT_LED" gate="G$1" x="53.34" y="43.18"/>
+<instance part="BAT_LED" gate="G$1" x="53.34" y="45.72"/>
 <instance part="GND15" gate="1" x="53.34" y="33.02"/>
 <instance part="C_V3" gate="G$1" x="93.98" y="-167.64"/>
 <instance part="GND19" gate="1" x="86.36" y="-177.8"/>
@@ -5921,7 +5921,7 @@ Source: www.kingbright.com</description>
 <segment>
 <pinref part="BAT_LED" gate="G$1" pin="C"/>
 <pinref part="GND15" gate="1" pin="GND"/>
-<wire x1="53.34" y1="38.1" x2="53.34" y2="35.56" width="0.1524" layer="91"/>
+<wire x1="53.34" y1="40.64" x2="53.34" y2="35.56" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="GND18" gate="1" pin="GND"/>
@@ -7058,7 +7058,7 @@ Source: www.kingbright.com</description>
 <segment>
 <pinref part="R_BLED" gate="G$1" pin="1"/>
 <pinref part="BAT_LED" gate="G$1" pin="A"/>
-<wire x1="53.34" y1="53.34" x2="53.34" y2="45.72" width="0.1524" layer="91"/>
+<wire x1="53.34" y1="53.34" x2="53.34" y2="48.26" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="L1" class="0">
