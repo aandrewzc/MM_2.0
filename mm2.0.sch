@@ -5638,7 +5638,7 @@ Source: www.kingbright.com</description>
 <wire x1="-121.92" y1="66.04" x2="-119.38" y2="66.04" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="MV" class="0">
+<net name="GND" class="0">
 <segment>
 <pinref part="U$3" gate="G$1" pin="GND"/>
 <wire x1="-25.4" y1="71.12" x2="-30.48" y2="71.12" width="0.1524" layer="91"/>
@@ -6383,14 +6383,14 @@ Source: www.kingbright.com</description>
 <pinref part="R_ELD" gate="G$1" pin="1"/>
 </segment>
 </net>
-<net name="N$11" class="0">
+<net name="T_LD" class="0">
 <segment>
 <pinref part="T_LD" gate="G$1" pin="D"/>
 <wire x1="-139.7" y1="-266.7" x2="-139.7" y2="-269.24" width="0.1524" layer="91"/>
 <pinref part="R_ELD" gate="G$1" pin="2"/>
 </segment>
 </net>
-<net name="N$4" class="0">
+<net name="T_LS" class="0">
 <segment>
 <pinref part="T_LS" gate="G$1" pin="D"/>
 <wire x1="-91.44" y1="-266.7" x2="-91.44" y2="-269.24" width="0.1524" layer="91"/>
@@ -6411,7 +6411,7 @@ Source: www.kingbright.com</description>
 <pinref part="R_ERS" gate="G$1" pin="1"/>
 </segment>
 </net>
-<net name="N$17" class="0">
+<net name="T_RS" class="0">
 <segment>
 <pinref part="T_RS" gate="G$1" pin="D"/>
 <wire x1="-43.18" y1="-266.7" x2="-43.18" y2="-269.24" width="0.1524" layer="91"/>
@@ -6555,7 +6555,7 @@ Source: www.kingbright.com</description>
 <label x="78.74" y="-162.56" size="0.8128" layer="95" rot="R270" xref="yes"/>
 </segment>
 </net>
-<net name="N$100" class="0">
+<net name="T_LF" class="0">
 <segment>
 <pinref part="T_LF" gate="G$1" pin="D"/>
 <wire x1="-187.96" y1="-266.7" x2="-187.96" y2="-269.24" width="0.1524" layer="91"/>
@@ -6569,7 +6569,7 @@ Source: www.kingbright.com</description>
 <pinref part="R_ERD" gate="G$1" pin="1"/>
 </segment>
 </net>
-<net name="N$6" class="0">
+<net name="T_RD" class="0">
 <segment>
 <pinref part="T_RD" gate="G$1" pin="D"/>
 <wire x1="5.08" y1="-266.7" x2="5.08" y2="-269.24" width="0.1524" layer="91"/>
@@ -6583,7 +6583,7 @@ Source: www.kingbright.com</description>
 <pinref part="R_ERF" gate="G$1" pin="1"/>
 </segment>
 </net>
-<net name="N$9" class="0">
+<net name="T_RF" class="0">
 <segment>
 <pinref part="T_RF" gate="G$1" pin="D"/>
 <wire x1="53.34" y1="-266.7" x2="53.34" y2="-269.24" width="0.1524" layer="91"/>
@@ -7030,7 +7030,7 @@ Source: www.kingbright.com</description>
 <junction x="-53.34" y="-185.42"/>
 </segment>
 </net>
-<net name="N$13" class="0">
+<net name="T_BUZ" class="0">
 <segment>
 <pinref part="BUZZER" gate="G$1" pin="2"/>
 <wire x1="-35.56" y1="-162.56" x2="-38.1" y2="-162.56" width="0.1524" layer="91"/>
