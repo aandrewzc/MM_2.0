@@ -2440,7 +2440,6 @@ Basic schematic elements and footprints for 0603, 1206, and PTH resistors.</desc
 <pad name="-" x="1.27" y="-0.5" drill="0.8" diameter="1.5"/>
 <text x="-3.5" y="-1.5" size="1.27" layer="21" font="vector">+</text>
 <text x="2.5" y="-1.5" size="1.27" layer="21" font="vector">-</text>
-<text x="2.6926" y="-1.2778" size="0.7112" layer="21" font="vector" rot="R180">SFH 4550</text>
 <text x="2.8" y="11.6" size="1.27" layer="21" rot="R85">10 degree</text>
 </package>
 <package name="RECEIVER">
@@ -2468,7 +2467,6 @@ Basic schematic elements and footprints for 0603, 1206, and PTH resistors.</desc
 <pad name="C" x="1.27" y="-0.5" drill="0.8" diameter="1.5"/>
 <text x="-3" y="-2" size="1.27" layer="21" font="vector">E</text>
 <text x="2" y="-2" size="1.27" layer="21" font="vector">C</text>
-<text x="2.9426" y="-2.5278" size="0.7112" layer="21" font="vector" rot="R180">TEFT 4300</text>
 </package>
 </packages>
 <symbols>
@@ -5355,13 +5353,12 @@ Source: www.kingbright.com</description>
 <part name="GND10" library="SparkFun" deviceset="GND" device=""/>
 <part name="GND11" library="SparkFun" deviceset="GND" device=""/>
 <part name="U$22" library="SparkFun-Aesthetics" deviceset="AGND" device=""/>
-<part name="GND12" library="SparkFun" deviceset="GND" device=""/>
 <part name="R_BLED" library="SparkFun-Resistors" deviceset="RESISTOR" device="0603" value="1K"/>
 <part name="BAT_LED" library="SparkFun" deviceset="LED" device="1206"/>
 <part name="GND15" library="SparkFun" deviceset="GND" device=""/>
 <part name="C_V3" library="SparkFun" deviceset="CAP" device="0603-CAP" value="0.1uF"/>
 <part name="GND19" library="SparkFun" deviceset="GND" device=""/>
-<part name="IC2" library="st-microelectronics" library_urn="urn:adsk.eagle:library:368" deviceset="L293DD" device="" package3d_urn="urn:adsk.eagle:package:26832/1"/>
+<part name="H-BRIDGE" library="st-microelectronics" library_urn="urn:adsk.eagle:library:368" deviceset="L293DD" device="" package3d_urn="urn:adsk.eagle:package:26832/1"/>
 <part name="C_V5" library="SparkFun" deviceset="CAP" device="0603-CAP" value="4.7uF"/>
 <part name="C_VBAT" library="SparkFun" deviceset="CAP" device="0603-CAP" value="0.1uF"/>
 <part name="GND9" library="SparkFun" deviceset="GND" device=""/>
@@ -5532,13 +5529,12 @@ Source: www.kingbright.com</description>
 <instance part="GND10" gate="1" x="43.18" y="-50.8" rot="R180"/>
 <instance part="GND11" gate="1" x="0" y="-149.86"/>
 <instance part="U$22" gate="G$1" x="-132.08" y="20.32"/>
-<instance part="GND12" gate="1" x="149.86" y="-114.3" rot="R90"/>
 <instance part="R_BLED" gate="G$1" x="53.34" y="58.42" rot="R90"/>
 <instance part="BAT_LED" gate="G$1" x="53.34" y="45.72"/>
 <instance part="GND15" gate="1" x="53.34" y="33.02"/>
 <instance part="C_V3" gate="G$1" x="93.98" y="-167.64"/>
 <instance part="GND19" gate="1" x="86.36" y="-177.8"/>
-<instance part="IC2" gate="G$1" x="-203.2" y="-5.08"/>
+<instance part="H-BRIDGE" gate="G$1" x="-203.2" y="-5.08"/>
 <instance part="C_V5" gate="G$1" x="139.7" y="-109.22"/>
 <instance part="C_VBAT" gate="G$1" x="121.92" y="-142.24" rot="R180"/>
 <instance part="GND9" gate="1" x="121.92" y="-152.4"/>
@@ -5813,21 +5809,6 @@ Source: www.kingbright.com</description>
 <wire x1="-142.24" y1="30.48" x2="-142.24" y2="40.64" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="U$4" gate="G$1" pin="VSSA"/>
-<wire x1="106.68" y1="-109.22" x2="127" y2="-109.22" width="0.1524" layer="91"/>
-<pinref part="C_V4" gate="G$1" pin="2"/>
-<wire x1="129.54" y1="-111.76" x2="129.54" y2="-114.3" width="0.1524" layer="91"/>
-<wire x1="129.54" y1="-114.3" x2="127" y2="-114.3" width="0.1524" layer="91"/>
-<wire x1="127" y1="-114.3" x2="127" y2="-109.22" width="0.1524" layer="91"/>
-<wire x1="129.54" y1="-114.3" x2="139.7" y2="-114.3" width="0.1524" layer="91"/>
-<wire x1="139.7" y1="-114.3" x2="147.32" y2="-114.3" width="0.1524" layer="91"/>
-<junction x="129.54" y="-114.3"/>
-<pinref part="GND12" gate="1" pin="GND"/>
-<pinref part="C_V5" gate="G$1" pin="2"/>
-<wire x1="139.7" y1="-111.76" x2="139.7" y2="-114.3" width="0.1524" layer="91"/>
-<junction x="139.7" y="-114.3"/>
-</segment>
-<segment>
 <pinref part="C_V3" gate="G$1" pin="2"/>
 <wire x1="93.98" y1="-170.18" x2="93.98" y2="-172.72" width="0.1524" layer="91"/>
 <wire x1="93.98" y1="-172.72" x2="86.36" y2="-172.72" width="0.1524" layer="91"/>
@@ -6017,7 +5998,7 @@ Source: www.kingbright.com</description>
 <pinref part="R_VM" gate="G$1" pin="2"/>
 </segment>
 <segment>
-<pinref part="IC2" gate="G$1" pin="VS"/>
+<pinref part="H-BRIDGE" gate="G$1" pin="VS"/>
 <wire x1="-215.9" y1="10.16" x2="-220.98" y2="10.16" width="0.1524" layer="91"/>
 <label x="-220.98" y="10.16" size="1.4224" layer="95" rot="R180" xref="yes"/>
 </segment>
@@ -6129,17 +6110,17 @@ Source: www.kingbright.com</description>
 <pinref part="R_BLED" gate="G$1" pin="2"/>
 </segment>
 <segment>
-<pinref part="IC2" gate="G$1" pin="VSS"/>
+<pinref part="H-BRIDGE" gate="G$1" pin="VSS"/>
 <wire x1="-190.5" y1="10.16" x2="-185.42" y2="10.16" width="0.1524" layer="91"/>
 <label x="-185.42" y="10.16" size="1.4224" layer="95" xref="yes"/>
 </segment>
 <segment>
-<pinref part="IC2" gate="G$1" pin="EN1"/>
+<pinref part="H-BRIDGE" gate="G$1" pin="EN1"/>
 <wire x1="-215.9" y1="2.54" x2="-223.52" y2="2.54" width="0.1524" layer="91"/>
 <label x="-223.52" y="2.54" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<pinref part="IC2" gate="G$1" pin="EN2"/>
+<pinref part="H-BRIDGE" gate="G$1" pin="EN2"/>
 <wire x1="-215.9" y1="-7.62" x2="-223.52" y2="-7.62" width="0.1524" layer="91"/>
 <label x="-223.52" y="-7.62" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
@@ -6333,14 +6314,14 @@ Source: www.kingbright.com</description>
 <label x="-124.46" y="25.4" size="1.6764" layer="95" rot="R270" xref="yes"/>
 </segment>
 <segment>
-<pinref part="IC2" gate="G$1" pin="GND@1"/>
+<pinref part="H-BRIDGE" gate="G$1" pin="GND@1"/>
 <wire x1="-215.9" y1="-15.24" x2="-220.98" y2="-15.24" width="0.1524" layer="91"/>
-<pinref part="IC2" gate="G$1" pin="GND@2"/>
+<pinref part="H-BRIDGE" gate="G$1" pin="GND@2"/>
 <wire x1="-215.9" y1="-17.78" x2="-220.98" y2="-17.78" width="0.1524" layer="91"/>
 <wire x1="-220.98" y1="-15.24" x2="-220.98" y2="-17.78" width="0.1524" layer="91"/>
-<pinref part="IC2" gate="G$1" pin="GND@3"/>
+<pinref part="H-BRIDGE" gate="G$1" pin="GND@3"/>
 <wire x1="-215.9" y1="-20.32" x2="-220.98" y2="-20.32" width="0.1524" layer="91"/>
-<pinref part="IC2" gate="G$1" pin="GND@4"/>
+<pinref part="H-BRIDGE" gate="G$1" pin="GND@4"/>
 <wire x1="-215.9" y1="-22.86" x2="-220.98" y2="-22.86" width="0.1524" layer="91"/>
 <wire x1="-220.98" y1="-22.86" x2="-220.98" y2="-20.32" width="0.1524" layer="91"/>
 <wire x1="-220.98" y1="-17.78" x2="-220.98" y2="-20.32" width="0.1524" layer="91"/>
@@ -6348,17 +6329,17 @@ Source: www.kingbright.com</description>
 <junction x="-220.98" y="-20.32"/>
 <wire x1="-220.98" y1="-22.86" x2="-220.98" y2="-30.48" width="0.1524" layer="91"/>
 <junction x="-220.98" y="-22.86"/>
-<pinref part="IC2" gate="G$1" pin="GND@8"/>
+<pinref part="H-BRIDGE" gate="G$1" pin="GND@8"/>
 <wire x1="-190.5" y1="-15.24" x2="-185.42" y2="-15.24" width="0.1524" layer="91"/>
 <wire x1="-185.42" y1="-15.24" x2="-185.42" y2="-17.78" width="0.1524" layer="91"/>
-<pinref part="IC2" gate="G$1" pin="GND@5"/>
+<pinref part="H-BRIDGE" gate="G$1" pin="GND@5"/>
 <wire x1="-185.42" y1="-17.78" x2="-185.42" y2="-20.32" width="0.1524" layer="91"/>
 <wire x1="-185.42" y1="-20.32" x2="-185.42" y2="-22.86" width="0.1524" layer="91"/>
 <wire x1="-185.42" y1="-22.86" x2="-190.5" y2="-22.86" width="0.1524" layer="91"/>
-<pinref part="IC2" gate="G$1" pin="GND@6"/>
+<pinref part="H-BRIDGE" gate="G$1" pin="GND@6"/>
 <wire x1="-190.5" y1="-20.32" x2="-185.42" y2="-20.32" width="0.1524" layer="91"/>
 <junction x="-185.42" y="-20.32"/>
-<pinref part="IC2" gate="G$1" pin="GND@7"/>
+<pinref part="H-BRIDGE" gate="G$1" pin="GND@7"/>
 <wire x1="-190.5" y1="-17.78" x2="-185.42" y2="-17.78" width="0.1524" layer="91"/>
 <junction x="-185.42" y="-17.78"/>
 <wire x1="-185.42" y1="-22.86" x2="-185.42" y2="-30.48" width="0.1524" layer="91"/>
@@ -6498,6 +6479,21 @@ Source: www.kingbright.com</description>
 <pinref part="R_RRD" gate="G$1" pin="2"/>
 <pinref part="R_RRF" gate="G$1" pin="2"/>
 </segment>
+<segment>
+<pinref part="U$4" gate="G$1" pin="VSSA"/>
+<wire x1="106.68" y1="-109.22" x2="127" y2="-109.22" width="0.1524" layer="91"/>
+<pinref part="C_V4" gate="G$1" pin="2"/>
+<wire x1="129.54" y1="-111.76" x2="129.54" y2="-114.3" width="0.1524" layer="91"/>
+<wire x1="129.54" y1="-114.3" x2="127" y2="-114.3" width="0.1524" layer="91"/>
+<wire x1="127" y1="-114.3" x2="127" y2="-109.22" width="0.1524" layer="91"/>
+<wire x1="129.54" y1="-114.3" x2="139.7" y2="-114.3" width="0.1524" layer="91"/>
+<wire x1="139.7" y1="-114.3" x2="147.32" y2="-114.3" width="0.1524" layer="91"/>
+<junction x="129.54" y="-114.3"/>
+<pinref part="C_V5" gate="G$1" pin="2"/>
+<wire x1="139.7" y1="-111.76" x2="139.7" y2="-114.3" width="0.1524" layer="91"/>
+<junction x="139.7" y="-114.3"/>
+<label x="147.32" y="-114.3" size="1.27" layer="95" xref="yes"/>
+</segment>
 </net>
 <net name="VCONT" class="0">
 <segment>
@@ -6609,9 +6605,9 @@ Source: www.kingbright.com</description>
 <label x="22.86" y="-124.46" size="0.8128" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<pinref part="MCU/BLU" gate="G$1" pin="PIN8"/>
-<wire x1="5.08" y1="-10.16" x2="12.7" y2="-10.16" width="0.1524" layer="91"/>
-<label x="12.7" y="-10.16" size="1.016" layer="95" xref="yes"/>
+<pinref part="MCU/BLU" gate="G$1" pin="PIN7"/>
+<wire x1="5.08" y1="-17.78" x2="12.7" y2="-17.78" width="0.1524" layer="91"/>
+<label x="12.7" y="-17.78" size="1.016" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="TX" class="0">
@@ -6621,9 +6617,9 @@ Source: www.kingbright.com</description>
 <label x="22.86" y="-121.92" size="0.8128" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<pinref part="MCU/BLU" gate="G$1" pin="PIN7"/>
-<wire x1="5.08" y1="-17.78" x2="12.7" y2="-17.78" width="0.1524" layer="91"/>
-<label x="12.7" y="-17.78" size="1.016" layer="95" xref="yes"/>
+<pinref part="MCU/BLU" gate="G$1" pin="PIN8"/>
+<wire x1="5.08" y1="-10.16" x2="12.7" y2="-10.16" width="0.1524" layer="91"/>
+<label x="12.7" y="-10.16" size="1.016" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="SWCLK" class="0">
@@ -6664,7 +6660,7 @@ Source: www.kingbright.com</description>
 </net>
 <net name="M_L1" class="0">
 <segment>
-<pinref part="IC2" gate="G$1" pin="IN1"/>
+<pinref part="H-BRIDGE" gate="G$1" pin="IN1"/>
 <wire x1="-215.9" y1="5.08" x2="-223.52" y2="5.08" width="0.1524" layer="91"/>
 <label x="-223.52" y="5.08" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
@@ -6676,7 +6672,7 @@ Source: www.kingbright.com</description>
 </net>
 <net name="M_L2" class="0">
 <segment>
-<pinref part="IC2" gate="G$1" pin="IN2"/>
+<pinref part="H-BRIDGE" gate="G$1" pin="IN2"/>
 <wire x1="-215.9" y1="0" x2="-223.52" y2="0" width="0.1524" layer="91"/>
 <label x="-223.52" y="0" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
@@ -6688,7 +6684,7 @@ Source: www.kingbright.com</description>
 </net>
 <net name="M_R1" class="0">
 <segment>
-<pinref part="IC2" gate="G$1" pin="IN3"/>
+<pinref part="H-BRIDGE" gate="G$1" pin="IN3"/>
 <wire x1="-215.9" y1="-5.08" x2="-223.52" y2="-5.08" width="0.1524" layer="91"/>
 <label x="-223.52" y="-5.08" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
@@ -6700,7 +6696,7 @@ Source: www.kingbright.com</description>
 </net>
 <net name="M_R2" class="0">
 <segment>
-<pinref part="IC2" gate="G$1" pin="IN4"/>
+<pinref part="H-BRIDGE" gate="G$1" pin="IN4"/>
 <wire x1="-215.9" y1="-10.16" x2="-223.52" y2="-10.16" width="0.1524" layer="91"/>
 <label x="-223.52" y="-10.16" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
@@ -7227,7 +7223,7 @@ Source: www.kingbright.com</description>
 <label x="-129.54" y="-106.68" size="1.778" layer="95" rot="R270" xref="yes"/>
 </segment>
 <segment>
-<pinref part="IC2" gate="G$1" pin="OUT3"/>
+<pinref part="H-BRIDGE" gate="G$1" pin="OUT3"/>
 <wire x1="-190.5" y1="-5.08" x2="-175.26" y2="-5.08" width="0.1524" layer="91"/>
 <label x="-175.26" y="-5.08" size="1.27" layer="95" xref="yes"/>
 </segment>
@@ -7239,9 +7235,9 @@ Source: www.kingbright.com</description>
 <label x="-121.92" y="-106.68" size="1.778" layer="95" rot="R270" xref="yes"/>
 </segment>
 <segment>
-<pinref part="IC2" gate="G$1" pin="OUT4"/>
+<pinref part="H-BRIDGE" gate="G$1" pin="OUT4"/>
 <wire x1="-190.5" y1="-10.16" x2="-175.26" y2="-10.16" width="0.1524" layer="91"/>
-<label x="-175.26" y="-10.16" size="1.778" layer="95" xref="yes"/>
+<label x="-175.26" y="-10.16" size="1.27" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="M_LA" class="0">
@@ -7251,7 +7247,7 @@ Source: www.kingbright.com</description>
 <label x="-269.24" y="-106.68" size="1.778" layer="95" rot="R270" xref="yes"/>
 </segment>
 <segment>
-<pinref part="IC2" gate="G$1" pin="OUT1"/>
+<pinref part="H-BRIDGE" gate="G$1" pin="OUT1"/>
 <wire x1="-190.5" y1="5.08" x2="-175.26" y2="5.08" width="0.1524" layer="91"/>
 <label x="-175.26" y="5.08" size="1.27" layer="95" xref="yes"/>
 </segment>
@@ -7263,7 +7259,7 @@ Source: www.kingbright.com</description>
 <label x="-261.62" y="-106.68" size="1.778" layer="95" rot="R270" xref="yes"/>
 </segment>
 <segment>
-<pinref part="IC2" gate="G$1" pin="OUT2"/>
+<pinref part="H-BRIDGE" gate="G$1" pin="OUT2"/>
 <wire x1="-175.26" y1="0" x2="-190.5" y2="0" width="0.1524" layer="91"/>
 <label x="-175.26" y="0" size="1.27" layer="95" xref="yes"/>
 </segment>
